@@ -5,5 +5,5 @@
 
 export const environment = {
   production: true,
-  serverUrl: 'https://hostedapp-server.herokuapp.com/'
+  serverUrl: 'https://hostedapp-server.herokuapp.com/api/v1'
 };
